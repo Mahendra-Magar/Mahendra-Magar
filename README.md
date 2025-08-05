@@ -1,3 +1,5 @@
+![Verified](https://img.shields.io/badge/Profile-Verified-brightgreen?style=flat-square&logo=github)
+
 <h1 align="center">Hi 👋, I'm Mahendra Magar</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
