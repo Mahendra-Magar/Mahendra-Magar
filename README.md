@@ -7,12 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahendra-magar" alt="mahendra-magar" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Html/CSS, Java script**
-
-- 📫 How to reach me **mahendramagar2056@gmail.com**
-
-- ⚡ Fun fact **I think I am funny😂**
-
 
 <p><img align="lcenter" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendra-magar&show_icons=true&locale=en&layout=compact" alt="mahendra-magar" /></p>
 
